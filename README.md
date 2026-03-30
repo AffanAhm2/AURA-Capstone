@@ -129,7 +129,7 @@ The system is structured into modular components for independent development and
 
 - Improved sensor fusion with probabilistic models
 - SLAM-based localization
-- Enhanced object detection models
+- Enhanced object detection models running on stronger hardware
 - Custom wearable enclosure and hardware optimization
 
 ---
