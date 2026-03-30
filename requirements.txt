@@ -1,0 +1,22 @@
+# Core dependencies
+numpy
+pyttsx3
+opencv-python
+
+# Raspberry Pi hardware dependencies
+RPi.GPIO; platform_system == "Linux"
+rpi-lgpio; platform_system == "Linux"
+smbus2; platform_system == "Linux"
+adafruit-blinka; platform_system == "Linux"
+circuitpython-vl53lxcx; platform_system == "Linux"
+pyserial; platform_system == "Linux"
+pynmea2; platform_system == "Linux"
+gpsd-py3; platform_system == "Linux"
+mpu6050-raspberrypi; platform_system == "Linux"
+ultralytics
+SpeechRecognition; platform_system == "Linux"
+pocketsphinx; platform_system == "Linux"
+
+# Linting / formatting
+black
+flake8
